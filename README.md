@@ -1,7 +1,18 @@
 # eosprojectslondon
 Overview about projects created during the EOS Hackathon in London on 22/23 September 2018
 
-All teams are encourage to create one file with information they want to provide to the general public. 
+* Eoshield
+    * Black/white listing of accounts
+    * https://github.com/pavja2/eoshield
+    * https://github.com/pavja2/eoshield_ui
 
-Click the button `New file` or this link: https://github.com/friedger/eosprojectslondon/new/master
+* Fuzi:
+    * Specific (not all) and Encrypted data transferred to those who need it using user owned 3rd party storage.
+    * https://github.com/landabaso/user_goes_2_doctor
+ 
+* Geneos
+    * Distributed research platform for DNA data
+    
+ 
+
 
