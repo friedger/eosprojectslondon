@@ -13,6 +13,15 @@ Overview about projects created during the EOS Hackathon in London on 22/23 Sept
 * Geneos
     * Distributed research platform for DNA data
     
+* Kubera
+    * https://github.com/tiakansara/kubera
+    * Team
+       * https://TiaKansara.com
+       * https://MichalStefanow.com
+       * http://www.boymaas.nl/
+       * https://www.linkedin.com/in/kahuna
+
+ 
  
 
 
